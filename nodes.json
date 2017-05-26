@@ -1,0 +1,481 @@
+{
+	"nodes": [
+		{
+			"name": "The ODI",
+			"types": ["HQ"],
+			"url": "http://theodi.org/",
+			"admin": "Jeni Tennison",
+			"location": {
+				"address": "3rd Floor, 65 Clifton Street, London EC2A 4JE",
+				"coordinates": {"lat":51.522175 ,"lon":-0.0922547 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "",
+				"twitter": "@ODIHQ"
+			},
+			"company": "Open Data Institute",
+			"funding": "",
+			"projects": ""
+		},{
+			"name": "ODI Aberdeen",
+			"types": [],
+			"url": "http://aberdeen.theodi.org/",
+			"admin": "Andrew Sage",
+			"location": {
+				"address": "9 Cattofield Place Aberdeen AB25 3QN",
+				"coordinates": {"lat":57.163223 ,"lon":-2.11904 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "aberdeen@theodi.org",
+				"twitter": "@ODIAberdeen"
+			},
+			"company": "Code the City",
+			"funding": "Providing products and services to the government as well as to other organisations and sponsorship.",
+			"projects": ""
+		},{
+			"name": "ODI Belfast",
+			"types": ["Network","Learning"],
+			"url": "http://belfast.theodi.org/",
+			"admin": "Bob Harper",
+			"location": {
+				"address": "NICVA 61 Duncairn Gardens Belfast Northern Ireland TR26 1LZ",
+				"coordinates": {"lat":54.612106 ,"lon":-5.928912 }
+			},
+			"contact": {
+				"tel": "+44 (0) 28 9087 7777",
+				"email": "odibelfast@nicva.org",
+				"twitter": "@ODIBelfast"
+			},
+			"company": "NICVA",
+			"funding": "Providing products and services to government, host organisations / pro-bono",
+			"projects": ""
+		},{
+			"name": "ODI Birmingham",
+			"types": ["Collaborative project"],
+			"url": "http://birmingham.theodi.org/",
+			"admin": "Hugo Russell",
+			"location": {
+				"address": "Faraday Wharf Innovation Birmingham Campus Holt Street Birmingham B7 4BB",
+				"coordinates": {"lat":52.488656 ,"lon":-1.887221 }
+			},
+			"contact": {
+				"tel": "+44 (0) 121 250 3504",
+				"email": "birmingham@theodi.org",
+				"twitter": "@ODIBirmingham"
+			},
+			"company": "Innovation Birmingham",
+			"funding": "Host organisation / pro bono, no income",
+			"projects": ""
+		},{
+			"name": "ODI Brasilia",
+			"types": ["Network"],
+			"url": "https://brasilia.theodi.org",
+			"admin": "",
+			"location": {
+				"address": "",
+				"coordinates": {"lat":-15.7932,"lon":-48.0027 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "brasilia@theodi.org",
+				"twitter": ""
+			},
+			"company": "uGov",
+			"funding": "Nonprofit social enterprise",
+			"projects": ""
+		},{
+			"name": "ODI Bristol",
+			"types": ["Collaborative project"],
+			"url": "http://bristol.theodi.org/",
+			"admin": "Katherine Rooney",
+			"location": {
+				"address": "SETsquared Business Acceleration Engine Shed Station Approach Bristol BS1 6QH",
+				"coordinates": {"lat":51.448988 ,"lon":-2.583486 }
+			},
+			"contact": {
+				"tel": "+44 (0) 20 3598 9395",
+				"email": "bristol@theodi.org",
+				"twitter": "@ODIBristol"
+			},
+			"company": "High Tech Bristol and Bath",
+			"funding": "Sponsorship",
+			"projects": ""
+		},{
+			"name": "ODI Cardiff ",
+			"types": ["Community"],
+			"url": "http://satorilab.org/",
+			"admin": "Esko Reinikainer",
+			"location": {
+				"address": "22 Windsor Place Cardiff CF10 2BY",
+				"coordinates": {"lat":51.481349 ,"lon":-3.177293 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "cardiff@theodi.org",
+				"twitter": "@ODICardiff"
+			},
+			"company": "SatoriLab",
+			"funding": "Providing products and services to governments, host organisation / pro-bono",
+			"projects": ""
+		},{
+			"name": "ODI Cornwall",
+			"types": ["Community"],
+			"url": "http://visceralbusiness.com/",
+			"admin": "Anne McCrossan",
+			"location": {
+				"address": "",
+				"coordinates": {"lat":50.2144,"lon":-5.4800 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "cornwall@theodi.org",
+				"twitter": ""
+			},
+			"company": "Visceral Business",
+			"funding": "Host organisation / pro-bono",
+			"projects": ""
+		},{
+			"name": "ODI Devon",
+			"types": ["Learning","Network"],
+			"url": "",
+			"admin": "Lucy Knight",
+			"location": {
+				"address": "Exeter, Devon, UK",
+				"coordinates": {"lat":50.7244072,"lon":-3.5835871 }
+			},
+			"contact": {
+				"tel": "+44 1392 580646",
+				"email": "devon@theodi.org",
+				"twitter": "@ODIDevon"
+			},
+			"company": "Redfront (partnership with Devon city)",
+			"funding": "Providing products and services to other organisations and training",
+			"projects": ""
+		},{
+			"name": "ODI Galway",
+			"types": ["Learning","Network"],
+			"url": "http://galway.theodi.org/",
+			"admin": "",
+			"location": {
+				"address": "",
+				"coordinates": {"lat":53.290411,"lon":-9.0765947 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "niall.obrolchain@insight-centre.org",
+				"twitter": "@ODIGalway"
+			},
+			"company": "eGov Unit, Insight Centre for Data Analytics, National University of Ireland, Galway",
+			"funding": "",
+			"projects": ""
+		},{
+			"name": "ODI Gothenburg",
+			"types": ["Community"],
+			"url": "http://gothenburg.theodi.org/",
+			"admin": "",
+			"location": {
+				"address": "",
+				"coordinates": {"lat":57.7082,"lon":11.9669 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "gothenburg@theodi.org",
+				"twitter": "@karinahlin"
+			},
+			"company": "BigApps",
+			"funding": "",
+			"projects": ""
+		},{
+			"name": "ODI Hampshire",
+			"types": ["Network"],
+			"url": "http://hampshire.theodi.org/",
+			"admin": "Mark Braggins",
+			"location": {
+				"address": "Room SMZ10 Sir James Matthews Building 157-187 Above Bar Street Southampton SO14 7NN",
+				"coordinates": {"lat":50.908582 ,"lon":-1.405176 }
+			},
+			"contact": {
+				"tel": "07737 714455",
+				"email": "hampshire@theodi.org",
+				"twitter": "@ODIHampshire"
+			},
+			"company": "Southern Policy Centre",
+			"funding": "Host organisation / pro-bono",
+			"projects": ""
+		},{
+			"name": "ODI Leeds",
+			"types": ["Pioneer"],
+			"url": "https://odileeds.org/",
+			"admin": "Paul Connell",
+			"location": {
+				"address": "3rd floor Munro House Duke Street Leeds LS7 3PU",
+				"coordinates": {"lat":53.796644 ,"lon":-1.533845 }
+			},
+			"contact": {
+				"tel": "+44 (0) 7895 845749",
+				"email": "odileeds@gmail.com",
+				"twitter": "@ODILeeds"
+			},
+			"company": "Open Innovations",
+			"funding": "Providing products and services to government, services to commercial organisations, providing products and services to other organisations, sponsorship, membership",
+			"projects": ""
+		},{
+			"name": "ODI Athens",
+			"types": ["Learning"],
+			"url": "",
+			"admin": "Michalis Vafopoulos",
+			"location": {
+				"address": "INNOVATHENS Pireos Street 100 118 54 Athens Greece",
+				"coordinates": {"lat":37.986968 ,"lon":23.75601 }
+			},
+			"contact": {
+				"tel": "+30 210 7474 271",
+				"email": "athens@theodi.org",
+				"twitter": "@eellak"
+			},
+			"company": "GFOSS",
+			"funding": "National government grant funding, grant funding from other non-governmental sources, EU-funded projects",
+			"projects": ""
+		},{
+			"name": "ODI Barcelona ",
+			"types": [],
+			"url": "http://iniciativabarcelonaopendata.cat/",
+			"admin": "Alberto Abella",
+			"location": {
+				"address": "",
+				"coordinates": {"lat":41.3929,"lon":2.1404 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "barcelona@theodi.org",
+				"twitter": "@ODI_Barcelona"
+			},
+			"company": "Initiative Barcelona Open Data",
+			"funding": "Local government grant funding, providing products and services to the government, providing products and services to commercial organisations, providing products and services to other organisations, sponsorship.",
+			"projects": ""
+		},{
+			"name": "ODI Cairo",
+			"types": [],
+			"url": "",
+			"admin": "Haitham S Hamzar",
+			"location": {
+				"address": "ITIDA (SECC) Building B121 Smart Village12577 Desert Road Cairo/Alexandria Giza Egypt",
+				"coordinates": {"lat":30.0716,"lon":31.0188 }
+			},
+			"contact": {
+				"tel": "+202 3534 5000",
+				"email": "cairo@theodi.org",
+				"twitter": "@SECC_Egypt"
+			},
+			"company": "ITIDA / SECC",
+			"funding": "Local government grant funding, Providing products and services to commercial organisation",
+			"projects": ""
+		},{
+			"name": "ODI Dubai",
+			"types": ["Learning"],
+			"url": "",
+			"admin": "Ibrahim Elbadar",
+			"location": {
+				"address": "Concord Tower Dubai Media City Dubai 126732 United Arab Emirates",
+				"coordinates": {"lat":25.09757,"lon":55.15633 }
+			},
+			"contact": {
+				"tel": "+971 (0) 44549861",
+				"email": "dubai@theodi.com",
+				"twitter": "@TheExantium"
+			},
+			"company": "Exantium",
+			"funding": "Providing products and services to the government",
+			"projects": ""
+		},{
+			"name": "ODI Madrid",
+			"types": [],
+			"url": "http://madrid.theodi.org/",
+			"admin": "María Poveda",
+			"location": {
+				"address": "The Ontology Engineering Group Universidad Politécnica de Madrid Calle Ramiro de Maeztu 7 28040 Madrid Spain",
+				"coordinates": {"lat":40.4050161,"lon":-3.8416142 }
+			},
+			"contact": {
+				"tel": "+34 91 3367 417",
+				"email": "madrid@theodi.org",
+				"twitter": "@odi_madrid"
+			},
+			"company": "Universidad Politecnica de Madrid",
+			"funding": "Run as a side project with organisations own resources",
+			"projects": ""
+		},{
+			"name": "ODI Osaka",
+			"types": ["Network"],
+			"url": "http://osaka.theodi.org/",
+			"admin": "Machi Takahashi",
+			"location": {
+				"address": "Tower C 7th floor Granfront Osaka Knowledge Capital No. 3 No. 1 Odoricho Kita-ku Osaka prefecture Osaka Japan",
+				"coordinates": {"lat":34.7059463,"lon":135.4923148 }
+			},
+			"contact": {
+				"tel": "+81 774 95 2470",
+				"email": "osaka@theodi.org",
+				"twitter": "@ODIOsaka"
+			},
+			"company": "Innovate! Osaka",
+			"funding": "Volunteer base",
+			"projects": ""
+		},{
+			"name": "ODI Ottawa",
+			"types": [],
+			"url": "",
+			"admin": "Rob Davidson",
+			"location": {
+				"address": "148 Larkin Drive Ontario Canada K2J 1H7",
+				"coordinates": {"lat":45.2781119,"lon":-75.7732711 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "ottawa@theodi.org",
+				"twitter": "@ODIOttawa"
+			},
+			"company": "www.veracify.com",
+			"funding": "Host organisation / pro-bono",
+			"projects": ""
+		},{
+			"name": "ODI Queensland ",
+			"types": ["Pioneer"],
+			"url": "",
+			"admin": "Maree Adsheed",
+			"location": {
+				"address": "TC Beirne Building 315 Brunswick St Fortitude Valley 4006 Queensland Australia",
+				"coordinates": {"lat":-27.4584116,"lon":153.0319676 }
+			},
+			"contact": {
+				"tel": "+61 (0) 404 273 573",
+				"email": "queensland@theodi.org",
+				"twitter": "@ODIQueensland"
+			},
+			"company": "Open Data Institute Queensland",
+			"funding": "Local government grant funding, providing products and services to governments, providing products and services to commercial organisations, sponsorship and training for individuals",
+			"projects": ""
+		},{
+			"name": "ODI Rio de Janeiro",
+			"types": ["Network","Learning"],
+			"url": "http://rio.theodi.org/",
+			"admin": "Luciana Sodre",
+			"location": {
+				"address": "",
+				"coordinates": {"lat":-22.8596582,"lon":-43.2325123 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "",
+				"twitter": "odi_rio"
+			},
+			"company": "Federal University of Rio de Janeiro",
+			"funding": "",
+			"projects": ""
+		},{
+			"name": "ODI Riyadh",
+			"types": [],
+			"url": "http://www.partner-co.co/",
+			"admin": "Saadia Saaed",
+			"location": {
+				"address": "",
+				"coordinates": {"lat":24.633,"lon":46.717 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "",
+				"twitter": ""
+			},
+			"company": "Partner & Co",
+			"funding": "",
+			"projects": ""
+		},{
+			"name": "ODI Rome",
+			"types": [],
+			"url": "",
+			"admin": "Alessio Dragoni",
+			"location": {
+				"address": "Via Ennio Quirino Visconti 85 00193 Rome Italy",
+				"coordinates": {"lat":41.907486,"lon":12.4669394 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "rome@theodi.org",
+				"twitter": "@sciamlab"
+			},
+			"company": "SciamLab",
+			"funding": "Local government grant funding, providing products and services to governments, sponsorship, host organisation / pro-bono",
+			"projects": ""
+		},{
+			"name": "ODI Seoul",
+			"types": ["Network"],
+			"url": "",
+			"admin": "Tony Lee",
+			"location": {
+				"address": "",
+				"coordinates": {"lat":37.5063333,"lon":127.0390059 }
+			},
+			"contact": {
+				"tel": "+82 2 2193 1734",
+				"email": "seoul@theodi.org",
+				"twitter": "@ODISeoul"
+			},
+			"company": "Satlux",
+			"funding": "Local government grant funding, national government grant funding",
+			"projects": ""
+		},{
+			"name": "ODI Toronto",
+			"types": ["Learning","Network"],
+			"url": "",
+			"admin": "Bianca Whylie",
+			"location": {
+				"address": "193 Cowan Avenue Ontario Canada ON M6K 2N7",
+				"coordinates": {"lat":43.6405033,"lon":-79.43467 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "toronto@theodi.org",
+				"twitter": "@ODIToronto"
+			},
+			"company": "Open Data Canada Inc",
+			"funding": "Providing products and services to the government, providing products and services to other organisations, host organisation / pro-bono  Projects",
+			"projects": ""
+		},{
+			"name": "ODI Trento",
+			"types": [],
+			"url": "http://trento.theodi.org/",
+			"admin": "Francesca De Chiara",
+			"location": {
+				"address": "Via S. Croce 77 38122 Trento Italy",
+				"coordinates": {"lat":46.0627342,"lon":11.122222 }
+			},
+			"contact": {
+				"tel": "+39 0461 314 341",
+				"email": "trento@theodi.org",
+				"twitter": "@FBKcom"
+			},
+			"company": "FBK-ICT Centre for Communications",
+			"funding": "Local government grant funding, providing products and services to the government, providing products and services to other organisations.",
+			"projects": ""
+		},{
+			"name": "ODI Vienna ",
+			"types": [],
+			"url": "http://vienna.theodi.org/",
+			"admin": "Martin Kaltenbock",
+			"location": {
+				"address": "Neubaugasse 1, 1070 Wien",
+				"coordinates": {"lat":48.1984857,"lon":16.3475307 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "",
+				"twitter": ""
+			},
+			"company": "Semantic Web Company",
+			"funding": "",
+			"projects": ""
+		}
+	]
+}
