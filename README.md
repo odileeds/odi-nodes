@@ -1,6 +1,6 @@
 # The ODI Global Node Network
 
-This is an open dataset of [Open Data Institute Nodes](https://theodi.org/nodes/).
+This is an [open dataset](https://github.com/odileeds/odi-nodes/blob/gh-pages/nodes.json) of [Open Data Institute Nodes](https://theodi.org/nodes/).
 
 ## What are ODI Nodes?
 
