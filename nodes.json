@@ -139,7 +139,7 @@
 		},{
 			"name": "ODI Devon",
 			"types": ["Learning","Network"],
-			"url": "",
+			"url": "http://devon.theodi.org/",
 			"admin": "Lucy Knight",
 			"location": {
 				"address": "Exeter, Devon, UK",
