@@ -35,6 +35,40 @@
 			"funding": "Providing products and services to the government as well as to other organisations and sponsorship.",
 			"projects": ""
 		},{
+			"name": "ODI Athens",
+			"types": ["Learning"],
+			"url": "",
+			"admin": "Michalis Vafopoulos",
+			"location": {
+				"address": "INNOVATHENS Pireos Street 100 118 54 Athens Greece",
+				"coordinates": {"lat":37.986968 ,"lon":23.75601 }
+			},
+			"contact": {
+				"tel": "+30 210 7474 271",
+				"email": "athens@theodi.org",
+				"twitter": "@eellak"
+			},
+			"company": "GFOSS",
+			"funding": "National government grant funding, grant funding from other non-governmental sources, EU-funded projects",
+			"projects": ""
+		},{
+			"name": "ODI Barcelona ",
+			"types": [],
+			"url": "http://iniciativabarcelonaopendata.cat/",
+			"admin": "Alberto Abella",
+			"location": {
+				"address": "",
+				"coordinates": {"lat":41.3929,"lon":2.1404 }
+			},
+			"contact": {
+				"tel": "",
+				"email": "barcelona@theodi.org",
+				"twitter": "@ODI_Barcelona"
+			},
+			"company": "Initiative Barcelona Open Data",
+			"funding": "Local government grant funding, providing products and services to the government, providing products and services to commercial organisations, providing products and services to other organisations, sponsorship.",
+			"projects": ""
+		},{
 			"name": "ODI Belfast",
 			"types": ["Network","Learning"],
 			"url": "http://belfast.theodi.org/",
@@ -103,6 +137,23 @@
 			"funding": "Sponsorship",
 			"projects": ""
 		},{
+			"name": "ODI Cairo",
+			"types": [],
+			"url": "",
+			"admin": "Haitham S Hamzar",
+			"location": {
+				"address": "ITIDA (SECC) Building B121 Smart Village12577 Desert Road Cairo/Alexandria Giza Egypt",
+				"coordinates": {"lat":30.0716,"lon":31.0188 }
+			},
+			"contact": {
+				"tel": "+202 3534 5000",
+				"email": "cairo@theodi.org",
+				"twitter": "@SECC_Egypt"
+			},
+			"company": "ITIDA / SECC",
+			"funding": "Local government grant funding, Providing products and services to commercial organisation",
+			"projects": ""
+		},{
 			"name": "ODI Cardiff ",
 			"types": ["Community"],
 			"url": "http://satorilab.org/",
@@ -152,6 +203,23 @@
 			},
 			"company": "Redfront (partnership with Devon city)",
 			"funding": "Providing products and services to other organisations and training",
+			"projects": ""
+		},{
+			"name": "ODI Dubai",
+			"types": ["Learning"],
+			"url": "",
+			"admin": "Ibrahim Elbadar",
+			"location": {
+				"address": "Concord Tower Dubai Media City Dubai 126732 United Arab Emirates",
+				"coordinates": {"lat":25.09757,"lon":55.15633 }
+			},
+			"contact": {
+				"tel": "+971 (0) 44549861",
+				"email": "dubai@theodi.com",
+				"twitter": "@TheExantium"
+			},
+			"company": "Exantium",
+			"funding": "Providing products and services to the government",
 			"projects": ""
 		},{
 			"name": "ODI Galway",
@@ -220,74 +288,6 @@
 			},
 			"company": "Open Innovations",
 			"funding": "Providing products and services to government, services to commercial organisations, providing products and services to other organisations, sponsorship, membership",
-			"projects": ""
-		},{
-			"name": "ODI Athens",
-			"types": ["Learning"],
-			"url": "",
-			"admin": "Michalis Vafopoulos",
-			"location": {
-				"address": "INNOVATHENS Pireos Street 100 118 54 Athens Greece",
-				"coordinates": {"lat":37.986968 ,"lon":23.75601 }
-			},
-			"contact": {
-				"tel": "+30 210 7474 271",
-				"email": "athens@theodi.org",
-				"twitter": "@eellak"
-			},
-			"company": "GFOSS",
-			"funding": "National government grant funding, grant funding from other non-governmental sources, EU-funded projects",
-			"projects": ""
-		},{
-			"name": "ODI Barcelona ",
-			"types": [],
-			"url": "http://iniciativabarcelonaopendata.cat/",
-			"admin": "Alberto Abella",
-			"location": {
-				"address": "",
-				"coordinates": {"lat":41.3929,"lon":2.1404 }
-			},
-			"contact": {
-				"tel": "",
-				"email": "barcelona@theodi.org",
-				"twitter": "@ODI_Barcelona"
-			},
-			"company": "Initiative Barcelona Open Data",
-			"funding": "Local government grant funding, providing products and services to the government, providing products and services to commercial organisations, providing products and services to other organisations, sponsorship.",
-			"projects": ""
-		},{
-			"name": "ODI Cairo",
-			"types": [],
-			"url": "",
-			"admin": "Haitham S Hamzar",
-			"location": {
-				"address": "ITIDA (SECC) Building B121 Smart Village12577 Desert Road Cairo/Alexandria Giza Egypt",
-				"coordinates": {"lat":30.0716,"lon":31.0188 }
-			},
-			"contact": {
-				"tel": "+202 3534 5000",
-				"email": "cairo@theodi.org",
-				"twitter": "@SECC_Egypt"
-			},
-			"company": "ITIDA / SECC",
-			"funding": "Local government grant funding, Providing products and services to commercial organisation",
-			"projects": ""
-		},{
-			"name": "ODI Dubai",
-			"types": ["Learning"],
-			"url": "",
-			"admin": "Ibrahim Elbadar",
-			"location": {
-				"address": "Concord Tower Dubai Media City Dubai 126732 United Arab Emirates",
-				"coordinates": {"lat":25.09757,"lon":55.15633 }
-			},
-			"contact": {
-				"tel": "+971 (0) 44549861",
-				"email": "dubai@theodi.com",
-				"twitter": "@TheExantium"
-			},
-			"company": "Exantium",
-			"funding": "Providing products and services to the government",
 			"projects": ""
 		},{
 			"name": "ODI Madrid",
