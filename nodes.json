@@ -32,17 +32,14 @@
 				"twitter": "@ODIAberdeen"
 			},
 			"company": "Code the City",
-			"description": "CodeTheCity is a civic, codesign and hacking initiative committed to building a better community through hack weekends, open data, workshops, and idea generation tools.
-			
-The Aberdeen Node will run codesign, and information workshops, as well as civic, codesign hack events across Scotland to promote learning and use of open data.
-
-We will also be setting up premises in the near future to provide collaborative working space for people and companies interested in learning about and using open data to drive innovation and create more dynamic communities."
+			"description": "CodeTheCity is a civic, codesign and hacking initiative committed to building a better community through hack weekends, open data, workshops, and idea generation tools.\n\nThe Aberdeen Node will run codesign, and information workshops, as well as civic, codesign hack events across Scotland to promote learning and use of open data.\n\nWe will also be setting up premises in the near future to provide collaborative working space for people and companies interested in learning about and using open data to drive innovation and create more dynamic communities."
 			"funding": "Providing products and services to the government as well as to other organisations and sponsorship.",
-			"projects": ""
+			"projects": "",
+			"expertise": ["Agriculture and food","Banking and finance","Data infrastructure","Data publishing and use","Emerging tech","Geospatial data and mapping","Humanitarian response","Innovation","Peer networks","Search and discovery","Cities","Weather, energy and environment"]
 		},{
 			"name": "ODI Athens",
 			"types": ["Learning"],
-			"url": "",
+			"url": "http://athens.theodi.org/",
 			"admin": "Michalis Vafopoulos",
 			"location": {
 				"address": "INNOVATHENS Pireos Street 100 118 54 Athens Greece",
@@ -54,11 +51,13 @@ We will also be setting up premises in the near future to provide collaborative 
 				"twitter": "@eellak"
 			},
 			"company": "GFOSS",
+			"description": "The Greek Free/Open Source Software Society (GFOSS) is a non-profit organisation, which was founded in 2008 by Universities and Research Centers; today it consists of 29 Universities and Research Centers.\n\nGFOSS’s mission is focused on bridging the gap among research, policy (business and public) and implementation in the field of open, based on community-oriented initiatives.\n\nIts activities are related to tools, partnerships and projects on open technologies and electronic governance and include actions at national and international level. Indicatively, GFOSS is involved in OGP, Web Index and Open Data Barometer, Open Budget Survey Tracker, FabLab and Harmonising Open Data in the Mediterranean.",
 			"funding": "National government grant funding, grant funding from other non-governmental sources, EU-funded projects",
-			"projects": ""
+			"projects": "",
+			"expertise": ["Data infrastructure","Skills and literacy"]
 		},{
 			"name": "ODI Barcelona ",
-			"types": [],
+			"types": ["Learning"],
 			"url": "http://iniciativabarcelonaopendata.cat/",
 			"admin": "Alberto Abella",
 			"location": {
@@ -71,8 +70,10 @@ We will also be setting up premises in the near future to provide collaborative 
 				"twitter": "@ODI_Barcelona"
 			},
 			"company": "Initiative Barcelona Open Data",
+			"description": "Iniciativa Barcelona is the hub for open data in the region. We are a non-profit organisation focused on providing training and leveraging projects related to open data. Our ambitions are to support local entrepreneurship and conduct research in the field of open data.\n\nOpen data advocacy is a global movement and joining the ODI Node Network enables us to enhance our efforts to support this movement and to connect local members to a global network.\n\nAs ODI Barcelona we want to bring together public administration, industry and the community (open data advocates) in order to leverage shared projects. We will:\n\n  * convene and connect people through local events\n  * deliver training to help understanding and practical use of open data (particularly public administration)\n  * communicate stories that demonstrate the local impact of open data\n\nWe would like to collaborate with our local community and advisory board to help develop ODI Barcelona’s local activities.",
 			"funding": "Local government grant funding, providing products and services to the government, providing products and services to commercial organisations, providing products and services to other organisations, sponsorship.",
-			"projects": ""
+			"projects": "",
+			"expertise": ["Skills and literacy"]
 		},{
 			"name": "ODI Belfast",
 			"types": ["Network","Learning"],
@@ -292,8 +293,10 @@ We will also be setting up premises in the near future to provide collaborative 
 				"twitter": "@ODILeeds"
 			},
 			"company": "Open Innovations",
+			"description": "ODI Leeds is a pioneer node of the Open Data Institute. It was created to explore and deliver the potential of open innovation with data at city scale. We work to improve lives, help people and create value.\n\nOpen Innovations Limited is an independent, non-profit, non-partisan company limited by guarantee.\n\nThe company holds the ODI Node Agreement for the region, as well as operating DataCity.",
 			"funding": "Providing products and services to government, services to commercial organisations, providing products and services to other organisations, sponsorship, membership",
 			"projects": ""
+			"expertise": ["Emerging tech","Innovation","Open standards and open APIs","Peer networks","Skills and literacy","Cities","Transport"]
 		},{
 			"name": "ODI Madrid",
 			"types": [],
